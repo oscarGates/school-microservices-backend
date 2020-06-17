@@ -1,6 +1,0 @@
-package com.formacionbdi.microservicios.app.usuarios.services;
-
-public interface AlumnoService {
-	
-	public List<Alumno> findAll();
-}
